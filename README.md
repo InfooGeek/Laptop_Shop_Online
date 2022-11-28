@@ -108,5 +108,4 @@ import the sql file for database
 	after editing in config/constants.php
 
 
-have a look:
-https://github.com/vijaythapa333/food-order-website-php
+
