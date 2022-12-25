@@ -104,6 +104,6 @@ import the sql file for database
 	after editing in config/constants.php
 
 ## License
-[MIT License](LICENSE)
+[GNU License](LICENSE)
 
 Yog Raj Dhakal(Loma) - MU
