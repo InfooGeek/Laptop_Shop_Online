@@ -1,9 +1,5 @@
 Laptop Online shop using php and mysql
 
-Yog Raj Dhakal
-Marwadi University 
-WT project
-
 # ⚙️ Technology Used
 1. HTML5
 2. CSS3
