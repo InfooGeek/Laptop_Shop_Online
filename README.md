@@ -105,4 +105,4 @@ import the sql file for database
 
 ## License
 [MIT License](LICENSE)
-Made by Yog Raj Dhakal(Loma) - MU
+# Yog Raj Dhakal(Loma) - MU
