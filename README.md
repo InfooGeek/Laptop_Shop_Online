@@ -1,4 +1,4 @@
-Laptop Online shop using php and mysql
+Online Laptop shop using php and mysql
 
 # ⚙️ Technology Used
 1. HTML5
@@ -103,5 +103,6 @@ import the sql file for database
 	then you're good to go
 	after editing in config/constants.php
 
-
+## License
+[MIT License](LICENSE)
 Made by Yog Raj Dhakal(Loma) - MU
